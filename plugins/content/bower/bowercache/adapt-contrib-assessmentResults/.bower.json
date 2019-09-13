@@ -1,0 +1,26 @@
+{
+  "name": "adapt-contrib-assessmentResults",
+  "version": "2.4.0",
+  "framework": ">=2.1",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-assessmentResults",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
+  "displayName": "Assessment Results",
+  "component": "assessmentResults",
+  "description": "A component used to display a single assessment's results",
+  "main": "/js/adapt-contrib-assessmentResults.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "2.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.4.0",
+    "commit": "0a170e81ec076eefbec53d23ad988c8c13cbb36d"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-assessmentResults.git",
+  "_target": "2.4.0",
+  "_originalSource": "adapt-contrib-assessmentResults",
+  "_direct": true
+}
