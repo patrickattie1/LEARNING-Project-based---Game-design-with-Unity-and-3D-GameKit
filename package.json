@@ -59,7 +59,7 @@
     "log-update": "^2.3.0",
     "matchdep": "^2.0.0",
     "method-override": "^2.3.10",
-    "migrate-mongoose": "^3.2.2",
+    "migrate-mongoose": "^4.0.0",
     "mime": "^2.3.1",
     "moment": "^2.22.1",
     "mongodb-uri": "^0.9.7",
